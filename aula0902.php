@@ -19,4 +19,4 @@ $DADOS = array (
     'MENSAGEM' => $MENSAGEM
 );
 
-echo json_encode($DADOS);
+echo json_encode($DADOS)
